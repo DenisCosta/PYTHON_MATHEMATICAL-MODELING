@@ -15,6 +15,8 @@ Assunto:
 Nome do sript: laplace_001
 
 Disponível em:
+    https://github.com/DenisCosta/PYTHON_MATHEMATICAL-MODELING/blob/master/
+    LAPLACE/laplace_001.py
     
 """
 import sympy as sy
@@ -24,11 +26,8 @@ s = sy.Symbol('s')
 # Domínio do Tempo
 f1 = sy.exp(2*t)
 
-
-
 # Transformando a Laplace
 T_L = sy.laplace_transform(f1,t,s)
-
 
 # Output
 print('===========================')

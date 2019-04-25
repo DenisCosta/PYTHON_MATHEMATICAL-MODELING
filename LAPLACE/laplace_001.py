@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 Created on Thu Apr 25 14:18:17 2019
 
@@ -19,17 +19,19 @@ Disponível em:
     LAPLACE/laplace_001.py
     
 """
+# Biblioteca sympy
+# Variáveis envolvidas: t e s
 import sympy as sy
 t = sy.Symbol('t')
 s = sy.Symbol('s')
 
-# Domínio do Tempo
+# Função Definida no Domínio do Tempo
 f1 = sy.exp(2*t)
 
-# Transformando a Laplace
+# Aplicando a Transformando a Laplace
 T_L = sy.laplace_transform(f1,t,s)
 
-# Output
+# Dados de Saída
 print('===========================')
 print('Função Primitiva -->',f1)
 print('')

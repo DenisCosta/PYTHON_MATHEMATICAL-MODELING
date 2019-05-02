@@ -15,6 +15,8 @@ Assunto:
 Nome do sript: laplace_002
 
 Disponível em:
+    https://github.com/DenisCosta/PYTHON_MATHEMATICAL-MODELING/blob/master/\
+    LAPLACE/laplace_002.py
     
 """
 # Bibliotecas

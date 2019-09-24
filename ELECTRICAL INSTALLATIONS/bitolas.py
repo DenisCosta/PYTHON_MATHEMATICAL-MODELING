@@ -8,7 +8,8 @@ Simulações Computacionais Aplicadas às Instalações Elétricas
     Denis C. L. Costa - Gm²SC (CNPq)
    
 Disponível em:
-   
+   https://github.com/DenisCosta/PYTHON_MATHEMATICAL-MODELING/blob/master/
+   ELECTRICAL%20INSTALLATIONS/bitolas.py
     
 """
 

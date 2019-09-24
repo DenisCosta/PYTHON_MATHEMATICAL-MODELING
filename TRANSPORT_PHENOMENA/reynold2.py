@@ -15,6 +15,8 @@ Assunto:
 Nome do sript: reynold2.py
 
 Disponível em:
+    https://github.com/DenisCosta/PYTHON_MATHEMATICAL-MODELING/blob/master/
+    TRANSPORT_PHENOMENA/reynold2.py
 
 """
 # Análise do Escoamento

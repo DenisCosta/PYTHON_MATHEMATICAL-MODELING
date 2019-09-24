@@ -15,7 +15,8 @@ Assunto:
 Nome do sript: reynold1.py
 
 Disponível em:
-    
+    https://github.com/DenisCosta/PYTHON_MATHEMATICAL-MODELING/blob/master/
+    TRANSPORT_PHENOMENA/reynold1.py
     
 """
 # Assunto: Comportamento de um Fluido

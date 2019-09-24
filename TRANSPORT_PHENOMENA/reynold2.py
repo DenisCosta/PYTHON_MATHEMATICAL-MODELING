@@ -10,7 +10,7 @@ Grupo de Pesquisa:
                  Simulação Computacional - GM²SC
                  
 Assunto: 
-        Classidica dos escoamentos
+        Classificação dos escoamentos
 
 Nome do sript: reynold2.py
 

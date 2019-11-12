@@ -10,7 +10,8 @@ Created on Wed Nov  6 19:40:52 2019
 Script 01: ode_FE
 
 Disponível em:
-
+    
+https://github.com/DenisCosta/PYTHON_MATHEMATICAL-MODELING/blob/master/ELECTRICAL%20INSTALLATIONS/ode_FE.py
 
 """
 # Análise  Temporal das Tensões Elétricas

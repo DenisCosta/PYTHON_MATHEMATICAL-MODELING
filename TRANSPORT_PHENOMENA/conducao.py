@@ -13,6 +13,8 @@ Assunto:
 Nome do sript: conducao
 
 Disponível em:  
+    https://github.com/DenisCosta/PYTHON_MATHEMATICAL-MODELING/blob/master/
+    TRANSPORT_PHENOMENA/conducao.py
 
 """
 

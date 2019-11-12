@@ -11,6 +11,7 @@ Script 02: instalacoes
 
 Disponível em:
 
+https://github.com/DenisCosta/PYTHON_MATHEMATICAL-MODELING/blob/master/ELECTRICAL%20INSTALLATIONS/instalacoes.py
 
 """
 

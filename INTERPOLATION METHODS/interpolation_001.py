@@ -18,7 +18,9 @@ Subject Matter:  Cubic interpolation
 Script Name: interpolation_001
 
 Available in:
-
+    https://github.com/DenisCosta/PYTHON_MATHEMATICAL-MODELING/blob/master/
+    INTERPOLATION%20METHODS/interpolation_001.py
+    
 """
 # Libraries used
 from scipy.interpolate import interp1d
